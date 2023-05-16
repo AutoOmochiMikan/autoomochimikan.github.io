@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.wrap {
+    margin: auto;
+    max-width: 720px;
+}
+
+.main_visual img {
+    width: 100%;
+}
+
+.storebtn img {
+    width: 200px;
+}
+
+.storebtn {
+    text-align: center;
+}
+
+.constent {
+    padding: 15px;
+}
+
+footer {
+    padding: 15px;
+    background: #ddd;
+}
+
+.center{
+    text-align: center;
+}
