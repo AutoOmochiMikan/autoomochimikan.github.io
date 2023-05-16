@@ -1,9 +1,11 @@
 body{
     margin: 0;
+    background: #f9efe5;
 }
 .wrap {
     margin: auto;
     max-width: 720px;
+    background: #fff;
 }
 
 .main_visual img {
