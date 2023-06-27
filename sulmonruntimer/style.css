@@ -13,11 +13,17 @@ body{
 }
 
 .storebtn img {
-    width: 200px;
+    height: 60px;
+}
+
+.storebtn a {
+    display: block;
 }
 
 .storebtn {
-    text-align: center;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
 }
 
 .constent {
